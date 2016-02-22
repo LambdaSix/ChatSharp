@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>ChatSharp</id>
+		<version>$version</version>
+		<title>$version</title>
+		<authors>SirCmpWin</authors>
+		<owners>SirCmpWin</owners>
+		<projectUrl>https://github.com/SirCmpwn/ChatSharp</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>The sane IRC library</description>
+	</metadata>
+</package>
